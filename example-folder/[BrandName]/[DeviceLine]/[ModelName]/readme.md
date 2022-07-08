@@ -1,0 +1,2 @@
+# Model Name
+The specific model of the device - i.e. tf300t. Make a copy of the folder for each device in that line that you add (i.e. one folder for the tf300t, one for the tf200t, etc. Make sure to keep in mind differences of significance - i.e. if a model pre 2010 is unable to be unlocked the conventional way, create a separate folder and name it accordingly)

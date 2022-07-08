@@ -1,0 +1,1 @@
+# For all devices under a specific brand
