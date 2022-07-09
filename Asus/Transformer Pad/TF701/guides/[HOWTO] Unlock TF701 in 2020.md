@@ -34,4 +34,4 @@ https://android.stackexchange.com/questions/28077/bricked-my-asus-tf300t-manual-
 
 Download links
 
-[Unlock app and DMClient for TF700T](https://github.com/TheRealGramdalf/xda-archive/tree/main/Asus/Transformer%20Pad/TF700T/resources)
+[Unlock app and DMClient for TF701T](https://github.com/TheRealGramdalf/xda-archive/tree/main/Asus/Transformer%20Pad/TF701/resources)
