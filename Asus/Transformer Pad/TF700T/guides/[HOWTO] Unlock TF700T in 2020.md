@@ -7,6 +7,8 @@ So here are the instructions:
 
     The device must be rooted. KingoRoot (the app) worked for me.
 
+Note: For one user, the kingoRoot app didn't work on their TF700T - they needed to use the [windows version](https://github.com/TheRealGramdalf/xda-archive/tree/main/Asus/Transformer%20Pad/TF700T/resources/KingoRoot_TF700T.exe).
+
     Download the unlock bundle from the link below.
 
     Copy both apks to /system/app, change the permission to 0644
