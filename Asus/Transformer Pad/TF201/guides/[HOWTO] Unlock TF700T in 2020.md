@@ -32,34 +32,10 @@ https://android.stackexchange.com/questions/28077/bricked-my-asus-tf300t-manual-
 (thanks @DieAbrissbirne)
 
 
-Download links
+Download link
 
-Unlock app and DMClient for TF700T
-https://leo.pfweb.eu/dl/OaKdx
+[DMClient for TF201](https://github.com/TheRealGramdalf/xda-archive/tree/main/Asus/Transformer%20Pad/TF201/resources)
 
-Succsessful on: 
-
-    WW_epad-10.6.1.14.10
-    JOP40D.US_epad-10.6.1.14.10-20130801
-
-DMClient for TF300T
-https://leo.pfweb.eu/dl/vUHnp
-
-DMClient for TF300TG
-https://leo.pfweb.eu/dl/xphHy
-
-
-DMClient for TF201
-https://leo.pfweb.eu/dl/pKvEA
 
 Succsessful on: 
     WW_epad_10.4.2.17
-
----------------------------------------------------------------------
-
-Unlock app and DMClient for TF701T
-https://leo.pfweb.eu/dl/2AcpB
-
-DMClient for ME301T (also seems to work for ME302KL)
-https://leo.pfweb.eu/dl/uiJPN
- 
