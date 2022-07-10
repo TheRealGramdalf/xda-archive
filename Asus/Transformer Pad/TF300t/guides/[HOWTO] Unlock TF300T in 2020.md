@@ -11,7 +11,7 @@ So here are the instructions:
 
     Copy both apks to /system/app, change the permission to 0644
     For this, a remount of the system partition may be needed; you can use `adb shell` to enter a remote shell, and `su` to gain root privileges.
-     `mount -o remount,rw -t ext4 /dev/block/mmcblk0p1 /system`
+        `mount -o remount,rw -t ext4 /dev/block/mmcblk0p1 /system`
 
     DMClient.apk replaces the original DMClient.apk and DMClient.odex (i.e. you have to rename/move/delete the .odex file)
     The modified unlock app cannot be installed like any other and must be installed that way
